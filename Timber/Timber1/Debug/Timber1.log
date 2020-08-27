@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  HelloSFML.cpp
+d:\visual studio sfml\timber1\timber1\hellosfml.cpp(292): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\visual studio sfml\timber1\timber1\hellosfml.cpp(326): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\visual studio sfml\timber1\timber1\hellosfml.cpp(402): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\visual studio sfml\timber1\timber1\hellosfml.cpp(406): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\visual studio sfml\timber1\timber1\hellosfml.cpp(435): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\visual studio sfml\timber1\timber1\hellosfml.cpp(439): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\visual studio sfml\timber1\timber1\hellosfml.cpp(466): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\visual studio sfml\timber1\timber1\hellosfml.cpp(470): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\visual studio sfml\timber1\timber1\hellosfml.cpp(497): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\visual studio sfml\timber1\timber1\hellosfml.cpp(501): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\visual studio sfml\timber1\timber1\hellosfml.cpp(532): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Timber1.vcxproj -> D:\Visual Studio SFML\Timber1\Debug\Timber1.exe
